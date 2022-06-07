@@ -1,5 +1,8 @@
 ## Access Reboot
 
+
+[Start-Up Refresher](https://www.youtube.com/playlist?list=PLnfNzgd6iu9UfQ7h0Xt99dgLTK-RAA-FT)
+
 You can use the [editor on GitHub](https://github.com/realdatanyc/access/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
