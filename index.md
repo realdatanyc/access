@@ -3,7 +3,7 @@
 
 [Start-Up Refresher](https://www.youtube.com/playlist?list=PLnfNzgd6iu9UfQ7h0Xt99dgLTK-RAA-FT)
 
-[Loop through a recordset(https://youtu.be/7HckYjH_wg4)
+[Loop through a recordset](https://youtu.be/7HckYjH_wg4)
 
 [Agent Studio Live Class Schedule](https://agentstudio.continu.co/#/view/articles/61e08d071b91de0013132c3c)
 
